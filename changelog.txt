@@ -1,0 +1,4 @@
+Version 1.0.1 - 2018-03-30 - Revision 7:
+- Fix Mega Menu bug
+Version 1.0.0 - 2018-03-27 - Revision 6:
+- Initial Release.
